@@ -71,6 +71,4 @@ This project allows users to open specific web pages using hand gestures detecte
     
 4. Ensure your webcam is working, and perform hand gestures in front of the camera to open the mapped websites.
 
-## Contribution
 
-Feel free to fork the project and submit pull requests. Your contributions are always welcome!
